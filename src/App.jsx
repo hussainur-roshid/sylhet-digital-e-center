@@ -354,7 +354,7 @@ const UI_COPY = {
           name: 'Kamal Ahmed',
           role: 'Assistant Trainer (Male)',
           focus: 'Diploma Trainer for Basic and Higher-level Courses',
-          image: 'https://iili.io/F8rV3AX.jpg',
+          image: 'https://iili.io/o3ysOpp.jpg',
           desc: 'Assistant Trainer (Male) specializing as a Diploma Trainer for Basic and Higher-level Computer courses and hands-on lab sessions.'
         },
         {
@@ -952,7 +952,7 @@ const UI_COPY = {
           name: 'কামাল আহমেদ (Kamal Ahmed)',
           role: 'অ্যাসিস্ট্যান্ট ট্রেইনার (পুরুষ)',
           focus: 'বেসিক ও হায়ার-লেভেল কোর্সের ডিপ্লোমা ট্রেইনার',
-          image: 'https://iili.io/F8rV3AX.jpg',
+          image: 'https://iili.io/o3ysOpp.jpg',
           desc: 'অ্যাসিস্ট্যান্ট ট্রেইনার (পুরুষ) এবং বেসিক ও হায়ার-লেভেল কম্পিউটার কোর্সের ডিপ্লোমা ট্রেইনার হিসেবে প্র্যাকটিক্যাল প্রশিক্ষণ পরিচালনা করছেন।'
         },
         {
