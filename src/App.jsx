@@ -338,7 +338,7 @@ const UI_COPY = {
         focus: 'M.S.S (Political Science), M. C College, Sylhet',
         subRole: 'Director, Zakiganj Upazila Post E-Center, Zakiganj, Sylhet',
         phone: '+880 1768-974739',
-        image: 'https://iili.io/o3yRqqN.jpg',
+        image:'https://iili.io/o3yRqqN.jpg',
         desc: 'Entrepreneur & Director leading Sylhet Head Post Office Digital e-Center and Zakiganj Upazila Post E-Center with a commitment to accessible, quality IT education.'
       },
       teamMembers: [
@@ -935,12 +935,13 @@ const UI_COPY = {
       subtitle:
         'আমাদের সম্মানিত পরিচালক, অভিজ্ঞ সিনিয়র ট্রেইনার এবং দুজন দক্ষ সহকারী ট্রেইনারের সমন্বয়ে আমাদের প্রশিক্ষণ টিম।',
       seniorTrainer: {
-        name: 'বলরাম বণিক (Boloram Banik)',
+        name: 'বলরাম বণিক (Balaram Banik)',
         role: 'উদ্যোক্তা ও পরিচালক',
         focus: 'এম.এস.এস (রাষ্ট্রবিজ্ঞান), এম. সি কলেজ, সিলেট',
         subRole: 'পরিচালক, জকিগঞ্জ উপজেলা পোস্ট ই-সেন্টার, জকিগঞ্জ, সিলেট',
         phone: '+880 1768-974739',
-        image: 'https://iili.io/o3yRqqN.jpg',
+        image:
+          'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=700&q=80',
         desc: 'উদ্যোক্তা ও পরিচালক হিসেবে সিলেট হেড পোস্ট অফিস ডিজিটাল ই-সেন্টার এবং জকিগঞ্জ উপজেলা পোস্ট ই-সেন্টারের মাধ্যমে মানসম্মত আইটি ও কম্পিউটার প্রশিক্ষণ নিশ্চিত করছেন।'
       },
       teamMembers: [
