@@ -822,7 +822,8 @@ const UI_COPY = {
       quickLinks: 'Quick Links',
       connect: 'Contact Info',
       copyright: '© 2026 Sylhet Head Post Office Digital e-Center. All rights reserved.',
-      designedFor: 'Government-Operated Center • Sylhet Head Post Office, Bondor Bazar, Sylhet 3100.'
+      designedFor: 'Government-Operated Center • Sylhet Head Post Office, Bondor Bazar, Sylhet 3100.',
+      developer: 'Designed & Developed by @hussainur-roshid',
     }
   },
   bn: {
@@ -1419,7 +1420,8 @@ const UI_COPY = {
       quickLinks: 'দ্রুত লিংক',
       connect: 'যোগাযোগের তথ্য',
       copyright: '© ২০২৬ সিলেট হেড পোস্ট অফিস ডিজিটাল ই-সেন্টার। সর্বস্বত্ব সংরক্ষিত।',
-      designedFor: 'সরকারি ব্যবস্থাপনায় পরিচালিত • সিলেট হেড পোস্ট অফিস, বন্দরবাজার, সিলেট ৩১০০।'
+      designedFor: 'সরকারি ব্যবস্থাপনায় পরিচালিত • সিলেট হেড পোস্ট অফিস, বন্দরবাজার, সিলেট ৩১০০।',
+      developer: 'Designed & Developed by @hussainur-roshid',
     }
   }
 };
