@@ -823,7 +823,9 @@ const UI_COPY = {
       connect: 'Contact Info',
       copyright: '© 2026 Sylhet Head Post Office Digital e-Center. All rights reserved.',
       designedFor: 'Government-Operated Center • Sylhet Head Post Office, Bondor Bazar, Sylhet 3100.',
-      developer: 'Designed & Developed by @hussainur-roshid',
+      developer: 'Designed & Developed by',
+      developerName: 'Hussainur Roshid',
+      developerLink: 'https://github.com/hussainur-roshid',
     }
   },
   bn: {
@@ -1421,7 +1423,9 @@ const UI_COPY = {
       connect: 'যোগাযোগের তথ্য',
       copyright: '© ২০২৬ সিলেট হেড পোস্ট অফিস ডিজিটাল ই-সেন্টার। সর্বস্বত্ব সংরক্ষিত।',
       designedFor: 'সরকারি ব্যবস্থাপনায় পরিচালিত • সিলেট হেড পোস্ট অফিস, বন্দরবাজার, সিলেট ৩১০০।',
-      developer: 'Designed & Developed by @hussainur-roshid',
+      developer: 'Designed & Developed by',
+      developerName: 'Hussainur Roshid',
+      developerLink: 'https://github.com/hussainur-roshid',
     }
   }
 };
@@ -2840,12 +2844,25 @@ export default function App() {
             </div>
           </div>
 
-          <div className="pt-8 text-center sm:flex sm:items-center sm:justify-between text-xs text-amber-200/50">
-            <p>{t.footer.copyright}</p>
-            <p className="mt-2 sm:mt-0">{t.footer.designedFor}</p>
-          </div>
-        </div>
-      </footer>
+          
+<div className="pt-8 text-center sm:flex sm:items-center sm:justify-between text-xs text-amber-200/50">
+  <p>{t.footer.copyright}</p>
+  <p className="mt-2 sm:mt-0">{t.footer.designedFor}</p>
+  <p className="mt-2 sm:mt-0">
+    {t.footer.developer}{' '}
+    <a
+      href="https://github.com/hussainur-roshid"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="font-semibold text-amber-200 hover:text-amber-100 hover:underline transition-colors"
+    >
+      Hussainur Roshid
+    </a>
+  </p>
+</div>
+</div>
+</footer>
+
 
       {/* ==================== COURSE FEE DETAILS POPUP ==================== */}
       {selectedFeeCourse && (
