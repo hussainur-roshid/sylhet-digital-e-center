@@ -361,8 +361,7 @@ const UI_COPY = {
           name: 'Jamila Begum',
           role: "Assistant Trainer (Women's Program)",
           focus: 'Basic & Higher-Level Computer and Graphic Design Trainer',
-          image:
-            'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80',
+          image: 'https://iili.io/o3yUSg2.png'
           desc: "Dedicated trainer for the Women's Program, teaching Basic & Higher-level Computer courses as well as Graphic Design."
         }
       ]
@@ -963,8 +962,7 @@ const UI_COPY = {
           name: 'জামিলা বেগম (Jamila Begum)',
           role: 'অ্যাসিস্ট্যান্ট ট্রেইনার (উইমেন্স প্রোগ্রাম)',
           focus: 'বেসিক ও হায়ার কম্পিউটার এবং গ্রাফিক ডিজাইন ট্রেইনার',
-          image:
-            'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80',
+          image: 'https://iili.io/o3yUSg2.png'
           desc: 'উইমেন্স প্রোগ্রামের প্রশিক্ষক হিসেবে বেসিক ও হায়ার লেভেল কম্পিউটার কোর্স এবং গ্রাফিক ডিজাইন প্রশিক্ষণ পরিচালনা করছেন।'
         }
       ]
