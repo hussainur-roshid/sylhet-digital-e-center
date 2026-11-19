@@ -2860,7 +2860,7 @@ export default function App() {
       Hussainur Roshid
     </a>
   </p>
-  /*}
+  */}
 </div>
 </div>
 </footer>
