@@ -333,13 +333,12 @@ const UI_COPY = {
       subtitle:
         'Guided by our dedicated Director, experienced Senior Trainer, and two hands-on Assistant Trainers.',
       seniorTrainer: {
-        name: 'Balaram Banik',
+        name: 'Boloram Banik',
         role: 'Entrepreneur & Director',
         focus: 'M.S.S (Political Science), M. C College, Sylhet',
         subRole: 'Director, Zakiganj Upazila Post E-Center, Zakiganj, Sylhet',
         phone: '+880 1768-974739',
-        image:
-          'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=700&q=80',
+        image:'https://iili.io/o3yRqqN.jpg',
         desc: 'Entrepreneur & Director leading Sylhet Head Post Office Digital e-Center and Zakiganj Upazila Post E-Center with a commitment to accessible, quality IT education.'
       },
       teamMembers: [
@@ -792,7 +791,7 @@ const UI_COPY = {
         'Visit our Government-operated center at Sylhet Head Post Office, Bondor Bazar, or contact us directly via phone or WhatsApp.',
       visitTitle: 'Visit Sylhet Head Post Office Digital e-Center',
       directorLabel: 'Entrepreneur & Director',
-      directorName: 'Balaram Banik',
+      directorName: 'Boloram Banik',
       directorQualification: 'M.S.S (Political Science), M. C College, Sylhet',
       directorRole: 'Director, Zakiganj Upazila Post E-Center, Zakiganj, Sylhet',
       addressLabel: 'Address',
