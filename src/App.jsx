@@ -2847,6 +2847,7 @@ export default function App() {
           
 <div className="pt-8 text-center sm:flex sm:items-center sm:justify-between text-xs text-amber-200/50">
   <p>{t.footer.copyright}</p>
+  {/*
   <p className="mt-2 sm:mt-0">{t.footer.designedFor}</p>
   <p className="mt-2 sm:mt-0">
     {t.footer.developer}{' '}
@@ -2859,6 +2860,7 @@ export default function App() {
       Hussainur Roshid
     </a>
   </p>
+  /*}
 </div>
 </div>
 </footer>
