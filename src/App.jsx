@@ -2426,7 +2426,7 @@ export default function App() {
                           <div className="flex items-center gap-2">
                             {item.isDemo && (
                               <span className="px-2 py-0.5 rounded text-[10px] font-semibold bg-red-950 text-amber-200 border border-red-800">
-                                {lang === 'bn' ? 'নমুনা রিভিউ' : 'Sample'}
+                                {lang === 'bn' ? '' : 'Sample'}
                               </span>
                             )}
                             <span className="text-xs font-bold text-amber-400 tracking-wider">
