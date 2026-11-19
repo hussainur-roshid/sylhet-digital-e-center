@@ -374,18 +374,15 @@ const UI_COPY = {
       items: [
         {
           caption: 'Computer Lab & Office Software Training',
-          image:
-            'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80'
+          image: 'https://iili.io/o3yUSg2.png'
         },
         {
           caption: 'Guided Practical Sessions (14-Seat Batches)',
-          image:
-            'https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80'
+          image: 'https://iili.io/o3yUSg2.png'
         },
         {
           caption: 'Graphic Design & Creative Studio',
-          image:
-            'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=800&q=80'
+          image: 'https://iili.io/o3yUSg2.png'
         }
       ]
     },
@@ -975,18 +972,15 @@ const UI_COPY = {
       items: [
         {
           caption: 'কম্পিউটার ল্যাব ও অফিস সফটওয়্যার প্রশিক্ষণ',
-          image:
-            'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80'
+          image: 'https://iili.io/o3yUSg2.png'
         },
         {
           caption: 'গাইডেড প্র্যাকটিক্যাল ল্যাব সেশন (১৪ জনের ব্যাচ)',
-          image:
-            'https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80'
+          image: 'https://iili.io/o3yUSg2.png'
         },
         {
           caption: 'গ্রাফিক ডিজাইন ও ক্রিয়েটিভ স্টুডিও',
-          image:
-            'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=800&q=80'
+          image: 'https://iili.io/o3yUSg2.png'
         }
       ]
     },
