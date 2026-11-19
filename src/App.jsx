@@ -361,7 +361,7 @@ const UI_COPY = {
           name: 'Jamila Begum',
           role: "Assistant Trainer (Women's Program)",
           focus: 'Basic & Higher-Level Computer and Graphic Design Trainer',
-          image: 'https://iili.io/o3yUSg2.png'
+          image: 'https://iili.io/o3yUSg2.png',
           desc: "Dedicated trainer for the Women's Program, teaching Basic & Higher-level Computer courses as well as Graphic Design.",
         }
       ]
