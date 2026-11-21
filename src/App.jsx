@@ -352,14 +352,14 @@ const UI_COPY = {
         },
         {
           name: 'Kamal Ahmed',
-          role: "Assistant Trainer (Male's Program)",
+          role: "Assistant Trainer (Male)",
           focus: 'Diploma Trainer for Basic and Higher-level Courses',
           image: 'https://iili.io/o3ysOpp.jpg',
           desc: 'Assistant Trainer (Male) specializing as a Diploma Trainer for Basic and Higher-level Computer courses and hands-on lab sessions.'
         },
         {
           name: 'Jamila Begum',
-          role: "Assistant Trainer (Women's Program)",
+          role: "Assistant Trainer (Women)",
           focus: 'Basic & Higher-Level Computer and Graphic Design Trainer',
           image: 'https://iili.io/o3yUSg2.png',
           desc: "Dedicated trainer for the Women's Program, teaching Basic & Higher-level Computer courses as well as Graphic Design.",
